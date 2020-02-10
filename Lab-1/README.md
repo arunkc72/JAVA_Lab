@@ -6,14 +6,14 @@ Java has two categories of data:
 2. Non-Primitive Data Type or Object Data type: such as String, Array, etc.
 There are 8 types of primitive data types:
 
-*    boolean data type
-*    byte data type
-*    char data type
-*    short data type
-*    int data type
-*    long data type
-*    float data type
-*   double data type
+        *    boolean data type
+        *    byte data type
+        *    char data type
+        *    short data type
+        *    int data type
+        *    long data type
+        *    float data type
+        *   double data type
 ## B. Array In Java
 An array is a collection of similar type of elements which have a contiguous memory location. Java array is an object which contains elements of a similar data type.
 
