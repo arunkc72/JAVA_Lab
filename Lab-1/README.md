@@ -1,4 +1,4 @@
-DATA TYPE AND ARRAY IN JAVA
+# DATA TYPE AND ARRAY IN JAVA
 A. Data Types In Java
 Java has two categories of data:
 
