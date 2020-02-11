@@ -6,7 +6,7 @@ There are two types of constructors: Default and Parameterized
 
 Default constructor If you do not implement any constructor in your class, Java compiler inserts a default constructor into your code on your behalf. This constructor is known as default constructor.
 Parameterized constructor Constructor with arguments(or you can say parameters) is known as Parameterized constructor. Example:
-```
+```javascript
 public class Employee {
 
    int empId;  
